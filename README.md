@@ -18,8 +18,6 @@ In this project, we use:
 -   How to pass arguments when running a Node.js file.
 -   How to build a small program that sends desktop notifications with a formatted timestamp.
 
----
-
 ## 🛠️ Setup Instructions
 
 Follow these steps to set up and run the project:
@@ -29,8 +27,8 @@ Follow these steps to set up and run the project:
 Use Git to clone this project to your local machine.:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone ...
+cd ...
 ```
 
 ### 2. Install package
